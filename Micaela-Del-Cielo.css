@@ -194,7 +194,10 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-group-1 {
-    width: 340px;
+    margin-top: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -209,13 +212,15 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 345px;
-    margin-top: -623px;
-    margin-left: -6px;
-    margin-right: -6px;
+    margin: -601px -2px -19px;
   }
 
   .u-section-1 .u-image-1 {
     min-height: 338px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 19px;
   }
 
   .u-section-1 .u-layout-cell-2 {
