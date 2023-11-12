@@ -31,6 +31,7 @@
   min-height: 583px;
   background-image: url("images/logo.jpg");
   background-position: 50% 50%;
+  border-radius: 50%;
 }
 
 .u-section-1 .u-container-layout-2 {
